@@ -30,3 +30,4 @@ Instant Shortening: Generates unique, compact alphanumeric short codes using nan
 Dynamic Redirection: Seamlessly intercepts short URL requests and routes users to the original target destination.
 
 Clean UI: A modern interface complete with smooth gradients and focused input fields.
+<img width="1916" height="1016" alt="Screenshot 2026-06-30 191531" src="https://github.com/user-attachments/assets/0abb4a82-1c03-4c4e-bd8d-aef7ae5bf818" />
