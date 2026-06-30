@@ -23,7 +23,8 @@ Views: Rendered dynamically using EJS templates, implementing a polished, minima
 
 Controllers/Routes: Handles the incoming requests, invokes the business logic (validating URLs and generating IDs), updates the database, and serves the corresponding views or handles redirection.
 
-Key Features
+Key Features - 
+
 Instant Shortening: Generates unique, compact alphanumeric short codes using nanoid.
 
 Dynamic Redirection: Seamlessly intercepts short URL requests and routes users to the original target destination.
